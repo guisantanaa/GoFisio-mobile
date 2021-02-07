@@ -10,7 +10,7 @@
 
 <p>OBS: Projeto em desenvolvimento</p>
 
-<h1>Ferraemntas utilizadas</h1>
+<h2>Ferramentas utilizadas</h2>
 
 <li>Javascript</li>
 <li>Typescript</li>
