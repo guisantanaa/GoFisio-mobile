@@ -6,4 +6,4 @@
 
 <h1>Apresentação do projeto</h1>
 
-<img src="/src/app.png" alt="imagem do projeto" />
+<img src="/src/assets/app.png" alt="imagem do projeto" />
