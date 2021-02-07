@@ -9,3 +9,9 @@
 <img src="/src/assets/app.png" alt="imagem do projeto" />
 
 <p>OBS: Projeto em desenvolvimento</p>
+
+<h1>Ferraemntas utilizadas</h1>
+
+<li>Javascript</li>
+<li>Typescript</li>
+<li>React Native</li>
