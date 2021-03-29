@@ -8,8 +8,6 @@
 
 <img src="/src/assets/app.png" alt="imagem do projeto" />
 
-<p>OBS: Projeto em desenvolvimento</p>
-
 <h2>Ferramentas utilizadas</h2>
 
 <li>Javascript</li>
